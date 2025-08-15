@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 ### My name is Emiliano García I am Software Engineer 💻 and Data Scientist 🧪
+
+<a href="https://www.linkedin.com/in/junior-alves-b66a10127">
+  <img align="left" alt="Junior's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
+</a>
+
 <!--
 
 Here are some ideas to get you started:
