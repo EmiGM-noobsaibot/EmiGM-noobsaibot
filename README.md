@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-<img align="right" alt="GIF divertido" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRydmRuNHB4MnQzd3BpNml6OWdyOTI5M3IydDk2dm1wMWd2Nm1zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="280" />
+<img align="right" alt="GIF divertido" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRydmRuNHB4MnQzd3BpNml6OWdyOTI5M3IydDk2dm1wMWd2Nm1zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="400" />
 
 
  ### 1️⃣Core Stack🧙‍♂️
