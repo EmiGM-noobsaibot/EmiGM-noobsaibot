@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,django,html,py,sklearn,tensorflow&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,django,css,html&perline=6" />
   </a>
 </p>
 
