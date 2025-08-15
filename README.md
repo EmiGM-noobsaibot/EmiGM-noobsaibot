@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##My name is Emiliano García I am Software Engineer 💻 and Data Scientist 🧪
+### My name is Emiliano García I am Software Engineer 💻 and Data Scientist 🧪
 <!--
 
 Here are some ideas to get you started:
