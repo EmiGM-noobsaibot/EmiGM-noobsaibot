@@ -2,7 +2,7 @@
 
 ### My name is Emiliano García I am Software Engineer 💻 and Data Scientist 🧪
 
-<a href="https://www.linkedin.com/in/junior-alves-b66a10127">
+<a href="https://www.linkedin.com/in/emiliano-garcia-montemayor-394664321/">
   <img align="left" alt="Junior's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
 </a>
 
