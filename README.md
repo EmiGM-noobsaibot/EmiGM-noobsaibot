@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF divertido" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF5OGM3aDdqbzVueDMzdno2MDljNnVvNWdxbzNhdGswMjVnZzlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGIxhunddTUOHlHXgu/giphy.gif" width="280" />
 
-## 1️⃣Core Stack🧙‍♂️:
+ 1️⃣Core Stack🧙‍♂️
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## 2️⃣ Additional Technologies 🪼:
+2️⃣ Additional Technologies 🪼
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-## 3️⃣ Tools & Workflow
+3️⃣ Tools & Workflow
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,github,notion,sublime,vscode&perline=5 " />
