@@ -10,6 +10,8 @@
 <br>
 <hr>
 
+<img align="right" alt="GIF divertido" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF5OGM3aDdqbzVueDMzdno2MDljNnVvNWdxbzNhdGswMjVnZzlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGIxhunddTUOHlHXgu/giphy.gif" width="280" />
+
 ## 1️⃣Core Stack🧙‍♂️:
 
 <p align="left">
