@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,js,c,r,swift,fastapi,opencv,figma,linux,ubuntu&perline=5" />
+  <img src="https://skillicons.dev/icons?i=azure,js,c,cpp,r,swift,fastapi,opencv,figma,linux,ubuntu&perline=5" />
   </a>
 </p>
 
