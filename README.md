@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,django,css,html&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,django,css,html,anaconda&perline=8" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,js,c,cpp,arduino,r,swift,fastapi,anaconda,opencv,pytorch,figma,linux,ubuntu&perline=7" />
+  <img src="https://skillicons.dev/icons?i=azure,js,c,cpp,arduino,r,swift,fastapi,opencv,pytorch,figma,linux,ubuntu&perline=6" />
   </a>
 </p>
 
