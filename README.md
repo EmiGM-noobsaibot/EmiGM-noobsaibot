@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,django,css,html,anaconda&perline=4" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,django,css,html,anaconda&perline=6" />
   </a>
 </p>
 
@@ -25,13 +25,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,js,c,cpp,arduino,r,swift,fastapi,opencv,pytorch,figma,linux,ubuntu&perline=4" />
+  <img src="https://skillicons.dev/icons?i=azure,js,c,cpp,arduino,r,swift,fastapi,opencv,pytorch,figma,linux,ubuntu&perline=6" />
   </a>
 </p>
 
 ### 3️⃣ Tools & Workflow
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,github,git,stackoverflow,notion,sublime,md&perline=4 " />
+    <img src="https://skillicons.dev/icons?i=vscode,discord,github,git,stackoverflow,notion,sublime,md&perline=6 " />
   </a>
 </p>
