@@ -25,13 +25,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,js,c,cpp,arduino,r,swift,fastapi,opencv,pytorch,figma,linux,ubuntu&perline=6" />
+  <img src="https://skillicons.dev/icons?i=azure,js,c,cpp,opencv,figma,linux&perline=6" />
   </a>
 </p>
 
 ### 3️⃣ Tools & Workflow
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,github,git,stackoverflow,notion,sublime,md&perline=6 " />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,stackoverflow,notion,sublime,md&perline=6 " />
   </a>
 </p>
