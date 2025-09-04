@@ -34,3 +34,5 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,git,stackoverflow,notion,sublime,md&perline=6 " />
   </a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
