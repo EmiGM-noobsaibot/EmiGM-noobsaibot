@@ -35,4 +35,4 @@
   </a>
 </p>
 
-![Emiliano GitHub stats](https://github-readme-stats.vercel.app/api?username=EmiGM-noobsaibot&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Emiliano GitHub stats material-palenight](https://github-readme-stats.vercel.app/api?username=EmiGM-noobsaibot&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
