@@ -11,6 +11,7 @@
 
 <img align="right" alt="GIF divertido" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5sdW9mYTg0OG1mMmV6amxkOTN6MW00YXdsNW5xMXE0cDVoeHcycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="470" />
 
+![Emiliano GitHub stats ](https://github-readme-stats.vercel.app/api?username=EmiGM-noobsaibot&show=reviews,prs_merged&theme=midnight-purple)
 
  ### 1️⃣Core Stack🧙‍♂️
 
@@ -35,4 +36,3 @@
   </a>
 </p>
 
-![Emiliano GitHub stats ](https://github-readme-stats.vercel.app/api?username=EmiGM-noobsaibot&show=reviews,prs_merged,prs_merged_percentage&theme=midnight-purple)
