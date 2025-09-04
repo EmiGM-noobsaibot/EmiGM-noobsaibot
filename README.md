@@ -1,6 +1,5 @@
-## Hi there 👋
+![Header](./your-header-image-name.png)
 
-### My name is Emiliano García. I’m a Software Engineer 💻 and Data Scientist 🧪.
 
 #### Contact me:
 
