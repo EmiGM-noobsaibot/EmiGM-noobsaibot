@@ -23,7 +23,7 @@
 ### 🧩 Additional Technologies  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,js,c,figma,linux&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=azure,js,c,figma,fastapi,linux&perline=8"/>
   </a>
 </p>
 
