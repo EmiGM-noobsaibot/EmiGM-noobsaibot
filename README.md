@@ -38,7 +38,3 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmiGM-noobsaibot&show_icons=true&theme=midnight-purple" alt="Emiliano GitHub stats"/>
-</p>
