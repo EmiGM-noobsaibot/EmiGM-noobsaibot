@@ -14,7 +14,7 @@
 ### ⚡ Core Stack  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,django,css,html,sklearn,anaconda&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=py,mysql,django,css,html&perline=8"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ### 🧩 Additional Technologies  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,js,c,figma,fastapi,linux&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=azure,js,c,fastapi,linux&perline=8"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 ### 🛠️ Tools & Workflow  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,stackoverflow,notion&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=github,git&perline=8"/>
   </a>
 </p>
 
