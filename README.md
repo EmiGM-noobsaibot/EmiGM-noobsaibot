@@ -32,7 +32,7 @@ My background in embedded systems, electronics, and robotics allows me to approa
 ### ⚡ Core Stack  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,django,css,html&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=py,postgres,sklearn,django,css,html&perline=8"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@ My background in embedded systems, electronics, and robotics allows me to approa
 ### 🧩 Additional Technologies  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,js,c,fastapi,linux&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=azure,supabase,js,c,fastapi,tensorflow,linux&perline=8"/>
   </a>
 </p>
 
