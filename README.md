@@ -50,7 +50,7 @@ My background in embedded systems, electronics, and robotics allows me to approa
 ### 🛠️ Tools & Workflow  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=github,git,obsidian,notion&perline=8"/>
   </a>
 </p>
 
